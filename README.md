@@ -2,17 +2,17 @@
 SSD
 
 
-Class ID:  
+Class ID: Taillow
 
 SRS ID: CST116SRS06  
 
-Unresolved Issues:  
+Unresolved Issues:  none
 
 Notes:  
 
-Partner Left:  
+Partner Left:  Eevee
 
-Partner Right:  
+Partner Right:  Vulpix
 
 ---
 
